@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.nurtaufik.resepmasakan.DetailActivity">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <RelativeLayout
+            android:id="@+id/fr_image"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/image"
+                android:layout_width="match_parent"
+                android:layout_height="290dp"
+                android:src="@drawable/sate_padang"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+        </RelativeLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="10dp"
+            android:layout_below="@id/fr_image">
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Title"
+                android:textSize="24sp"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:textColor="@android:color/black"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Bahan-Bahan : "
+                android:textSize="20sp"
+                android:layout_marginTop="16dp"
+                android:layout_marginLeft="16dp"/>
+            <TextView
+                android:id="@+id/resep"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="resep"
+                android:textSize="18sp"
+                android:layout_marginLeft="16dp"
+                android:layout_centerVertical="true"
+                android:layout_marginBottom="4dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Cara Membuat :"
+                android:layout_marginTop="12dp"
+                android:layout_marginLeft="16dp"
+                android:textSize="20sp"/>
+            <TextView
+                android:id="@+id/cara"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:layout_marginTop="12dp"
+                android:layout_marginLeft="16dp"
+                android:text="cara"
+                android:layout_centerVertical="true"
+                android:layout_marginBottom="15dp" />
+        </LinearLayout>
+    </RelativeLayout>
+</ScrollView>

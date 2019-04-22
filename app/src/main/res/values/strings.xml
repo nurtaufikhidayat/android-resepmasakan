@@ -1,0 +1,240 @@
+<resources>
+    <string name="app_name">Resep Masakan</string>
+    <string name="judul_masakan1">Sate Lilit Bali</string>
+    <string name="resep_masakan1">\n
+        1. 350 gram daging ayam, giling halus\n
+        2. 150 gram udang, giling\n
+        3. 1,5 sdm kelapa muda parut\n
+        4. 1 sdm santan kental\n
+        5. 15-20 batang serai untuk tusukan\n
+        6. 1 sdt gula\n
+        7. 1 sdt garam\n
+        8. siung bawang merah\n
+        9. siung bawang putih\n
+        10.5 buah cabai keriting\n
+        11.3 cm kunyit, bakar\n
+        12.1 cm jahe\n
+        13.3 butir kemiri, sangrai\n
+        14.1/4 sdt ketumbar, sangrai\n
+        15.1/2 sdt terasi, bakar\n
+        16.1 buah serai ambil putihnya\n
+        17.3 lembar daun jeruk\n
+    </string>
+    <string name="cara_masakan1">\n
+        1. Haluskan bumbu, kemudian tumis hingga harum\n
+        2. Tambahkan gula garam, aduk hingga matang, angkat\n
+        3. Pada wadah masukkan ayam, udang giling, santan, kelapa parut lalu tambahkan bumbu halus yang telah ditumis. Aduk hingga tercampur rata\n
+        4. Ambil 1 sdm adonan, tempelkan/ lilitkan pada ujung serai atau bambu (menyerupai pentul) hingga rapi\n
+        5. Panggang diatas pan, bolak balik hingga matang dan harum\n
+        6. Sajikan dengan sambal matah selagi hangat\n
+    </string>
+    <string name="judul_masakan2">Mie Goreng Jawa</string>
+    <string name="resep_maskanan2">\n
+    1.  2 bungkus mie telor\n
+    2.  3 siung bawang putih\n
+    3.  1 butir kemiri\n
+    4.  1 sdt merica bulat\n
+    5.  1 sdm kecap manis\n
+    6.  1 sdt saus cabai\n
+    7.  1 sdt saus tomat\n
+    8.  1 butir telur\n
+    9.  1 buah wortel\n
+    10. 3 lembar daun bawang\n
+    11. Seledri untuk taburan\n
+    12. Bawang goreng untuk taburan\n
+    </string>
+    <string name="cara_masakan2">\n
+    1.  Keluarkan mie instan dan beri air panas pada wadah, biarkan sampai mie agak lunak. Sambil menunggu mie aldente, haluskan merica, bawang dan kemiri.\n
+    2.  Potong-potong daun bawang dan wortel sisihkan. jangan lupa apabila kekenyalan mie sudah pas tiriskan.\n
+    3.  Pertama masukkan sedikit minyak, tumis bumbu yang sudah dihaluskan sampai harum dan matang.\n
+    4.  Setelah bumbu matang, masukkan wortel aduk aduk. kemudian sisih kan dipinggir wajan, masukkan telur, biarkan sebentar, kemudian orak arik telur.\n
+    5.  Setelah telur benar-benar matang masukkan sedikit air agar wortel matang dan empuk. masukkan bumbu yang terdapat pada mie instan, tambahkan kecap, saos, saos sambal, dan daun seledri.\n
+    6.  Setelah air agak menyusut masukkan mie aduk aduk. kalo saya suka mie goreng yang sedikit lembab. test rasa. sudah ok, angkat dan sajikan. Jangan lupa diberi garnish seledri dan bawang goreng.\n
+
+    </string>
+    <string name="judul_masakan3">Ayam Goreng Kalasan</string>
+    <string name="resep_masakan3">\n
+    1.  1 ekor ayam, potong-potong cuci bersih\n
+    2.  100 cc air kelapa\n
+    3.  1/4 sdt soda kue\n
+    4.  5 siung bawang putih, haluskan\n
+    5.  1 cm lengkuas\n
+    6.  2 lembar daun salam\n
+    7.  Gula merah secukupnya\n
+    8.  Garam secukupnya\n
+    9.  Gula pasir secukupnya\n
+    </string>
+    <string name="cara_masakan3">\n
+    1.  Tuang air kelapa berserta semua bumbu, masukkan daging ayam, rebus sampai air menyusut, angkat, tiriskan.\n
+    2.  Setelah ayam agak dingin, goreng sampai kecoklatan, angkat, tiriskan.\n
+
+    </string>
+    <string name="judul_masakan4">Gado-Gado Sayur </string>
+    <string name="resep_masakan4">\n
+    1.  200 gram kacang tanah digoreng\n
+    2.  4 siung bawang putih, potong dan goreng\n
+    3.  3 lembar daun jeruk\n
+    4.  1 bungkus santan kara lalu ditambah air 250 ml\n
+    5.  200 gram gula merah\n
+    6.  Kentang kukus\n
+    7.  Tauge rebus\n
+    8.  Kubis kukus\n
+    9.  Tahu goreng\n
+    10. Tempe goreng\n
+    </string>
+    <string name="cara_masakan4">\n
+    1.  Cara membuat bumbu: Blender kacang, daun jeruk, bersama santan sampai halus.\n
+    2.  Didihkan santan sampai terus diaduk agar tidak gosong, masukkan gula merah, garam,  dan cicipi.\n
+    3.  Tata sayur di atas piring, dan siram dengan bumbu.\n
+    </string>
+    <string name="judul_masakan5">Lotek Cirebon</string>
+    <string name="resep_masakan5">\n
+    1.  1 ikat bayam\n
+    2.  1 buah wortel ukuran kecil\n
+    3.  2 lembar kubis, iris tipis\n
+    4.  1 genggam kecambah\n
+    5.  1 buah tomat (iris tipis)\n
+    6.  4 buah tahu\n
+    7.  1 genggam kacang tanah\n
+    8.  4 buah cabe rawit\n
+    9.  1 buah bawang putih\n
+    10. 1 cm kencur\n
+    11. 1 sdt terasi\n
+    12. 1 lembar daun jeruk\n
+    13. Air asam secukupnya\n
+    14. Garam secukupnya\n
+    15. Gula jawa secukupnya\n
+    </string>
+    <string name="cara_masakan5">\n
+    1.  Rebus semua sayuran kecuali kubis, tiriskan. Sangrai kacang tanah hingga matang.\n
+    2.  Uleg cabe, bawang putih, kencur, daun jeruk, terasi, garam hingga halus lalu tambahkan kacang tanah dan 2 sdm air asam jawa.\n
+    3.  Setelah halus, tambahkan gula merah dan air secukupnya (jangan terlalu encer).\n
+    4.  Masukkan semua sayuran, tomat, dan tahu aduk rata. Sajikan dengan kerupuk dan ketupat.\n
+    </string>
+    <string name="judul_masakan6">Ayam Goreng Praktis</string>
+    <string name="resep_masakan6">\n
+    1.  1 ekor ayam, potong 10 bagian\n
+    2.  4 siung bawang putih\n
+    3.  3 siung bawang merah\n
+    4.  1 ruas lengkuas dihaluskan\n
+    5.  2 cm jahe dan kunyit\n
+    6.  2 sdt garam\n
+    7.  1 sdt merica\n
+    8.  1/2 sdt ketumbar\n
+    9.  Daun salam, daun jeruk, daun sereh, dan jeruk nipis untuk mencuci ayam\n
+    </string>
+    <string name="cara_masakan6">\n
+    1.  Cuci ayam dan potong menjadi 10 bagian, lalu taburi dengan air perasan jeruk nipis. Diamkan sabentar, lalu bilas.\n
+    2.  Ulek bumbu halus, lalu siapkan 1,5 liter air dalam wajan besar. Masukkan bumbu halus, 1 sdt minyak, ayam,dan daun-daunan. Tutup dan ungkep hingga asat dengan api sedang.\n
+    3.  Goreng ayam yang sudah diungkep, dengan minyak sedang sebentar. Siap disajikan dengan sambel lalapan.\n
+    </string>
+    <string name="judul_masakan7">Sate Padang</string>
+    <string name="resep_masakan7">\n
+    1.  250 gram lidah sapi, direbus, potong-potong 2x2 cm\n
+    2.  100 gram hati sapi, direbus, potong-potong 2x2 cm\n
+    3.  300 gram daging sandung lumur\n
+    4.  1 liter air\n
+    5.  2 lembar daun kunyit\n
+    6.  1 batang serai, ambil putihnya, memarkan\n
+    7.  1 buah asam kandis\n
+    8.  40 gram tepung beras dan 50 ml air, dilarutkan untuk pengental\n
+    9.  2 sdm bawang goreng untuk taburan\n
+    10. 18 buah tusuk sate\n
+    11. 8 butir bawang merah\n
+    12. 1 buah cabai merah keriting\n
+    13. 1/2 sdt ketumbar\n
+    14. 1 sdt merica\n
+    15. 1/4 sdt jintan\n
+    16. 4 cm kunyit, dibakar\n
+    17. 1 cm lengkuas\n
+    18. 1 1/4 sdt gula pasir\n
+    19. 1 sdt garam\n
+    </string>
+    <string name="cara_masakan7">\n
+    1.  Rebus daging sandung lumur dengan air sampai matang dan empuk, potong potong ukuran 2 x 2 cm. Ukur kaldunya 750 ml.\n
+    2.  Rebus lagi lidah sapi hati sapi, bumbu halus, daun kunyit, serai, dan asam kandis. Masak sampai kaldunya menjadi 500 ml  dengan api kecil.\n
+    3.  Tusuk tusuk daging sapi, lidah sapi, dan hati sapi secara bergantian di tusuan sate. Bakar sampai harum.\n
+    4.  Rebus lagi kaldunya, kentalkan dengan larutan tepung beras, masak sampai meletup letup.\n
+    5.  Sajikan sate dengan kuahnya dan bawang goreng.\n
+
+    </string>
+    <string name="judul_masakan8">Soto Jogja</string>
+    <string name="resep_masakan8">\n
+    1.  1 ekor ayam kampung\n
+    2.  5 liter air\n
+    3.  2 bonggol bawang putih\n
+    4.  20 butir bawang merah\n
+    5.  6 butir kemiri, sangrai\n
+    6.  4 cm kunyit, bakar\n
+    7.  3 1/2 sdm garam\n
+    8.  1/2 sdt jintan\n
+    9.  5 cm jahe\n
+    10. 15 butir merica\n
+    11. 1/2 sdt pala bubuk\n
+    12. 4 helai daun jeruk purut\n
+    13. 5 helai daun salam\n
+    14. 10 cm kayu manis\n
+    15. 10 cm kayu krangean\n
+    16. 50 gram gula merah\n
+    17. Nasi putih secukupnya
+    18. 1/2 kg kol, iris halus\n
+    19. 300 gram toge, seduh dengan air panas dan tiriskan\n
+    20. 5 buah tomat, iris\n
+    21. Bihun secukupnya, seduh dengan air panas dan tiriskan\n
+    22. Daun bawang dan seledri secukupnya\n
+    23. Bawang merah goreng secukupnya\n
+    </string>
+    <string name="cara_masakan8">\n
+    1.  Didihkan air, masukkan ayam, gula merah, dan rempah-rempah. Tumis bumbu halus sampai matang, masukkan ke dalam rebusan ayam. Masak sampai ayam empuk, angkat dan tiriskan. Lalu goreng dengan api besar dan minyak sebentar.\n
+    2.  Seduh kuah ayam, cicipi. Masak kembali dengan api kecil sampai mendidih. \n
+    3.  Dalam mangkuk, susun nasi, kol, bihun, ayam suwir, tomat, daun bawang, seledri. Siram dengan kuah panas, dan taburkan dengan bawang goreng. Sajikan bersama sambal rawit, kecap, dan irisan jeruk nipis.\n
+    </string>
+    <string name="judul_masakan9">Mie Godog Jawa</string>
+    <string name="resep_masakan9">\n
+    1.  1 bungkus mie telur\n
+    2.  1 ikat sawi hijau (cuci bersih, potong-potong)\n
+    3.  5 lembar daun kol, rajang kasar\n
+    4.  1 buah tomat, potong kasar\n
+    5.  1 tangkai daun bawang, iris serong\n
+    6.  2 butir telur, kocok lepas\n
+    7.  100 gram daging ayam, rebus dan suwir-suwir\n
+    8.  500 ml air kaldu\n
+    9.  1 sdt kecap asin dan 2 sdt kecap manis\n
+    10. Garam secukupnya\n
+    11. 1 sdt ebi, sangrai\n
+    12. 5 siung bawang merah\n
+    13. 3 siung bawang putih\n
+    14. 3 butir kemiri, sangrai\n
+    15. 1 sdt merica butiran\n
+    16. Bawang merah goreng secukupnya\n
+    17. Acar timun secukupnya\n
+    18. Rawit hijau utuh secukupnya\n
+    19. Kerupuk secukupnya\n
+    </string>
+    <string name="cara_masakan9">\n
+    1. Panaskan air hingga mendidih, masukkan mie telor kering, beri sedikit minyak sayur agar tidak menggumpal. Masak sampai setengah matang, angkat, tiriskan, dan sisihkan.\n
+    2. Tumis bumbu halus sampai wangi, pinggirkan bumbunya lalu masak telur orak-arik sampai matang lalu masukkan ayam, kol, dan sawi, tuang air kaldu, masukkan garam, kecap asin dan manis. Masukkan mie telor dan aduk rata. Menjelang diangkat, masukkan tomat dan daun bawang, aduk rata. Cicipi, jika sudah pas, angkat.\n
+    3. Tuang mie godog dalam mangkuk, taburi bawang goreng dan siap disajikan bersama pelengkap.\n
+    </string>
+    <string name="judul_masakan10">Sup Ayam Kuah Bening</string>
+    <string name="resep_masakan10">\n
+    1.  1 ekor ayam kampung\n
+    2.  Kayu manis (sekitar 3 x 20 mm)\n
+    3.  1/2 sdt lada bubuk\n
+    4.  1/4 buah pala diparut\n
+    5.  1 sdt garam\n
+    6.  5 siung bawang putih, digeprek\n
+    7.  1500 ml air matang untuk rebusan pertama\n
+    8.  2500 ml air matang untuk rebusan kedua\n
+    9.  Seledri iris tipis\n
+    10. Daun bawang iris tipis\n
+    </string>
+    <string name="cara_masakan10">\n
+    1.  Bersihkan ayam, pisahkan jeroannya. Potong ayam menjadi 10 bagian.\n
+    2.  Lumuri ayam dengan garam, untuk menghilangkan lendir-lendir di kulit dan bau amis. Diamkan sekitar 10 menit. Cuci bersih. Sisihkan.\n
+    3.  Didihkan 1500 ml air. Masukkan ayam, aduk aduk sebentar. Diamkan 1 menit. Setelah air berubah warna menjadi keruh dan berbuih, segera angkat ayam. Sisihkan. (Tujuan dari perebusan pertama adalah untuk menghilangkan kaldu yang keruh dan buih sehingga pada perebusan kedua akan didapatkan air kaldu yang bening. Oleh karena itu, pada perebusan pertama tidak perlu lama agar kaldunya tidak habis).\n
+    4.  Didihkan 2500 ml air. Masukkan semua bumbu. Masukkan ayam. Masak dengan api kecil sampai ayam empuk sekitar 30 menit. Kemudian angkat ayam. Sisihkan.\n
+    5.  Masak kaldu kembali sampai mendidih sambil menyesuaikan rasanya. Setelah sesuai, kuah kaldu siap digunakan.\n
+    6.  Hidangkan sop ayam dengan cara ambil bagian ayam yang diinginkan, potong-potong kecil/sedang sesuai selera. Masukkan ke dalam mangkuk, tambahkan irisan seledri dan daun bawang. Siram dengan kuah kaldu panas. Sajikan selagi hangat.\n
+    </string>
+</resources>
